@@ -1,0 +1,3 @@
+/home/elrath/Documents/kol/zad5/build/CMakeFiles/rebuild_cache.dir
+/home/elrath/Documents/kol/zad5/build/CMakeFiles/myProgram.dir
+/home/elrath/Documents/kol/zad5/build/CMakeFiles/edit_cache.dir
